@@ -1,0 +1,17 @@
+{
+  "name": "team-piro",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "*"
+  },
+  "engines": {
+    "node": ">=0.6",
+    "npm": "*"
+  },
+  "author": "Scott Taylor <scott@railsnewbie.com>",
+  "scripts": {
+    "test": "jake"
+  }
+}
